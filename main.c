@@ -11,8 +11,10 @@ void display() {
   }
   glFlush();
 }
-
+  
 int main() {
+  //En esta funcion se empezará a modificar para el ejercicio 1
+ 
   char filename[256];
 
   // Pedir al usuario el nombre del archivo BMP
